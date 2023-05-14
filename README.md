@@ -59,7 +59,7 @@
 
 |                                                       Solved.ac                                                        |                                                             Languages                                                              |
 | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
-| [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eminhwan)](https://solved.ac/profile/eminhwan) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhvvan)](https://github.com/minhvvan/github-readme-stats) |
+| [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eminhwan)](https://solved.ac/profile/eminhwan) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhvvan&langs_count=10&layout=compact&theme=light)](https://github.com/minhvvan/minhvvan) |
 
 | [![eminhwan's github stats](https://github-readme-stats.vercel.app/api?username=minhvvan&show_icons=true&theme=prussian)](https://github.com/minhvvan/github-readme-stats) |
 | :-----------------------------------------------------------------------------------------------------------------------: |
